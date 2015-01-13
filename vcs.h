@@ -1,5 +1,6 @@
 ; VCS.H
 ; Version 1.05, 13/November/2003
+; Local mirror (original version is gone)
 
 VERSION_VCS         = 105
 
